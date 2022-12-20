@@ -1,4 +1,4 @@
-Saffroncoin (SFR)
+SAFFRON Coin ( SAFFRON )
 ===================================
 
 Copyright (c) 2009-2013 Bitcoin Developers,
@@ -24,7 +24,7 @@ Specifications
 
 ANN Thread
 ------------------
-https://bitcointalk.org/index.php?topic=586320
+https://bitcointalk.org/index.php?topic=5428149.0
 
 License
 -------
